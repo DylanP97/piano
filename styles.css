@@ -18,8 +18,17 @@ body {
 
 .keys {
     position: relative;
-
 }
+
+
+/* .key:active {
+    background-color: orangered;
+} */
+
+.keyOrange {
+    background-color: orange !important;
+}
+
 
 .white-keys {
     display: flex;
